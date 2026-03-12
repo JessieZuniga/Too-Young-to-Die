@@ -1,4 +1,11 @@
 {
-  "FolderOrderSettings":[],
-  "ResourceOrderSettings":[],
+  "FolderOrderSettings":[
+    {"name":"Objects","order":3,"path":"folders/Objects.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"Font1","order":2,"path":"fonts/Font1/Font1.yy",},
+    {"name":"obj_button_play","order":1,"path":"objects/obj_button_play/obj_button_play.yy",},
+    {"name":"Room1","order":1,"path":"rooms/Room1/Room1.yy",},
+    {"name":"play_button","order":4,"path":"sprites/play_button/play_button.yy",},
+  ],
 }
