@@ -1,5 +1,7 @@
 {
   "FolderOrderSettings":[
+    {"name":"Floor1","order":6,"path":"folders/Floor1.yy",},
+    {"name":"Menu1","order":7,"path":"folders/Menu1.yy",},
     {"name":"Objects","order":3,"path":"folders/Objects.yy",},
   ],
   "ResourceOrderSettings":[
