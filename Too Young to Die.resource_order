@@ -6,8 +6,12 @@
   ],
   "ResourceOrderSettings":[
     {"name":"Font1","order":2,"path":"fonts/Font1/Font1.yy",},
+    {"name":"obj_button_controls","order":3,"path":"objects/obj_button_controls/obj_button_controls.yy",},
     {"name":"obj_button_play","order":1,"path":"objects/obj_button_play/obj_button_play.yy",},
+    {"name":"obj_button_quit","order":4,"path":"objects/obj_button_quit/obj_button_quit.yy",},
+    {"name":"Object5","order":8,"path":"objects/Object5/Object5.yy",},
     {"name":"Room1","order":1,"path":"rooms/Room1/Room1.yy",},
     {"name":"play_button","order":4,"path":"sprites/play_button/play_button.yy",},
+    {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
   ],
 }
