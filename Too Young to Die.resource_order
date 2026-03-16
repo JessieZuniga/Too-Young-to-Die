@@ -18,5 +18,6 @@
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"Background_Hallway","order":1,"path":"sprites/Background_Hallway/Background_Hallway.yy",},
     {"name":"obj_button","order":5,"path":"sprites/obj_button/obj_button.yy",},
+    {"name":"Sprite4","order":1,"path":"sprites/Sprite4/Sprite4.yy",},
   ],
 }
