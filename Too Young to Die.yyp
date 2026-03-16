@@ -10,6 +10,8 @@
   },
   "defaultScriptType":0,
   "Folders":[
+    {"$GMFolder":"","%Name":"GameOver_Menu","folderPath":"folders/GameOver_Menu.yy","name":"GameOver_Menu","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Timer_Folder","folderPath":"folders/Timer_Folder.yy","name":"Timer_Folder","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Hallway","folderPath":"folders/Hallway.yy","name":"Hallway","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Obj_Patient_Room","folderPath":"folders/Obj_Patient_Room.yy","name":"Obj_Patient_Room","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects_Hallway","folderPath":"folders/Objects_Hallway.yy","name":"Objects_Hallway","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -34,6 +36,9 @@
     {"id":{"name":"obj_button_Patient_to_Hallway","path":"objects/obj_button_Patient_to_Hallway/obj_button_Patient_to_Hallway.yy",},},
     {"id":{"name":"obj_button_play","path":"objects/obj_button_play/obj_button_play.yy",},},
     {"id":{"name":"obj_button_quit","path":"objects/obj_button_quit/obj_button_quit.yy",},},
+    {"id":{"name":"Obj_controller","path":"objects/Obj_controller/Obj_controller.yy",},},
+    {"id":{"name":"Obj_initializer","path":"objects/Obj_initializer/Obj_initializer.yy",},},
+    {"id":{"name":"gameover_screen","path":"rooms/gameover_screen/gameover_screen.yy",},},
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
@@ -47,6 +52,7 @@
     {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"roomId":{"name":"gameover_screen","path":"rooms/gameover_screen/gameover_screen.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
