@@ -1,12 +1,12 @@
 {
   "FolderOrderSettings":[
     {"name":"GameOver_Menu","order":8,"path":"folders/GameOver_Menu.yy",},
-    {"name":"Timer_Folder","order":9,"path":"folders/Timer_Folder.yy",},
     {"name":"Hallway","order":1,"path":"folders/Hallway.yy",},
     {"name":"Obj_Patient_Room","order":5,"path":"folders/Obj_Patient_Room.yy",},
     {"name":"Objects_Hallway","order":4,"path":"folders/Objects_Hallway.yy",},
     {"name":"Patient_Room","order":3,"path":"folders/Patient_Room.yy",},
     {"name":"The Menu","order":2,"path":"folders/The Menu.yy",},
+    {"name":"Timer_Folder","order":9,"path":"folders/Timer_Folder.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"Font1","order":2,"path":"fonts/Font1/Font1.yy",},
