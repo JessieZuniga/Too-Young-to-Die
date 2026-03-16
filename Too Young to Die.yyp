@@ -10,8 +10,8 @@
   },
   "defaultScriptType":0,
   "Folders":[
-    {"$GMFolder":"","%Name":"Obj_Patient_Room","folderPath":"folders/Obj_Patient_Room.yy","name":"Obj_Patient_Room","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Hallway","folderPath":"folders/Hallway.yy","name":"Hallway","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Obj_Patient_Room","folderPath":"folders/Obj_Patient_Room.yy","name":"Obj_Patient_Room","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects_Hallway","folderPath":"folders/Objects_Hallway.yy","name":"Objects_Hallway","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects_Menu","folderPath":"folders/Objects_Menu.yy","name":"Objects_Menu","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Patient_Room","folderPath":"folders/Patient_Room.yy","name":"Patient_Room","resourceType":"GMFolder","resourceVersion":"2.0",},

@@ -1,7 +1,7 @@
 {
   "FolderOrderSettings":[
-    {"name":"Obj_Patient_Room","order":6,"path":"folders/Obj_Patient_Room.yy",},
     {"name":"Hallway","order":1,"path":"folders/Hallway.yy",},
+    {"name":"Obj_Patient_Room","order":6,"path":"folders/Obj_Patient_Room.yy",},
     {"name":"Objects_Hallway","order":5,"path":"folders/Objects_Hallway.yy",},
     {"name":"Patient_Room","order":3,"path":"folders/Patient_Room.yy",},
     {"name":"The Menu","order":2,"path":"folders/The Menu.yy",},
