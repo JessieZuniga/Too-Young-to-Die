@@ -21,8 +21,8 @@
   ],
   "name":"Menu",
   "parent":{
-    "name":"Menu1",
-    "path":"folders/Menu1.yy",
+    "name":"The Menu",
+    "path":"folders/The Menu.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

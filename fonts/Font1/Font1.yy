@@ -234,8 +234,8 @@
   "maintainGms1Font":false,
   "name":"Font1",
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Objects_Menu",
+    "path":"folders/Objects_Menu.yy",
   },
   "pointRounding":0,
   "ranges":[

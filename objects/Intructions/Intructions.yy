@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"Object5",
+  "%Name":"Intructions",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Object5",
+  "name":"Intructions",
   "overriddenProperties":[],
   "parent":{
-    "name":"Too Young to Die",
-    "path":"Too Young to Die.yyp",
+    "name":"Objects_Menu",
+    "path":"folders/Objects_Menu.yy",
   },
   "parentObjectId":null,
   "persistent":false,
