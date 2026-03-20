@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"Object13",
+  "%Name":"piece_4",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Object13",
+  "name":"piece_4",
   "overriddenProperties":[],
   "parent":{
-    "name":"Too Young to Die",
-    "path":"Too Young to Die.yyp",
+    "name":"obj_laptop_puzzle",
+    "path":"folders/obj_laptop_puzzle.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"slider_puzzle_spr_4",
+    "path":"sprites/slider_puzzle_spr_4/slider_puzzle_spr_4.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
