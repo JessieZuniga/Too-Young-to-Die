@@ -20,6 +20,7 @@
     {"name":"obj_button_play","order":1,"path":"objects/obj_button_play/obj_button_play.yy",},
     {"name":"obj_button_quit","order":4,"path":"objects/obj_button_quit/obj_button_quit.yy",},
     {"name":"Obj_initializer","order":1,"path":"objects/Obj_initializer/Obj_initializer.yy",},
+    {"name":"Object13","order":13,"path":"objects/Object13/Object13.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"Background_Hallway","order":1,"path":"sprites/Background_Hallway/Background_Hallway.yy",},
     {"name":"Background_Office","order":1,"path":"sprites/Background_Office/Background_Office.yy",},
