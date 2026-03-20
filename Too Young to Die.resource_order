@@ -1,6 +1,7 @@
 {
   "FolderOrderSettings":[
     {"name":"GameOver_Menu","order":8,"path":"folders/GameOver_Menu.yy",},
+    {"name":"Player","order":14,"path":"folders/Player.yy",},
     {"name":"Hallway","order":1,"path":"folders/Hallway.yy",},
     {"name":"Obj_Patient_Room","order":5,"path":"folders/Obj_Patient_Room.yy",},
     {"name":"Objects_gameover","order":12,"path":"folders/Objects_gameover.yy",},
@@ -20,11 +21,11 @@
     {"name":"obj_button_play","order":1,"path":"objects/obj_button_play/obj_button_play.yy",},
     {"name":"obj_button_quit","order":4,"path":"objects/obj_button_quit/obj_button_quit.yy",},
     {"name":"Obj_initializer","order":1,"path":"objects/Obj_initializer/Obj_initializer.yy",},
-    {"name":"Object13","order":13,"path":"objects/Object13/Object13.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"Background_Hallway","order":1,"path":"sprites/Background_Hallway/Background_Hallway.yy",},
     {"name":"Background_Office","order":1,"path":"sprites/Background_Office/Background_Office.yy",},
     {"name":"obj_button","order":5,"path":"sprites/obj_button/obj_button.yy",},
+    {"name":"PlayerCharacter","order":1,"path":"sprites/PlayerCharacter/PlayerCharacter.yy",},
     {"name":"Sprite4","order":1,"path":"sprites/Sprite4/Sprite4.yy",},
   ],
 }
