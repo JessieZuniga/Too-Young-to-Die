@@ -44,6 +44,7 @@
     {"id":{"name":"obj_button_quit","path":"objects/obj_button_quit/obj_button_quit.yy",},},
     {"id":{"name":"Obj_controller","path":"objects/Obj_controller/Obj_controller.yy",},},
     {"id":{"name":"Obj_initializer","path":"objects/Obj_initializer/Obj_initializer.yy",},},
+    {"id":{"name":"Object13","path":"objects/Object13/Object13.yy",},},
     {"id":{"name":"gameover_screen","path":"rooms/gameover_screen/gameover_screen.yy",},},
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
