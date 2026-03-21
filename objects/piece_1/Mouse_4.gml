@@ -30,11 +30,11 @@ else{	/// @DnDAction : YoYo Games.Collisions.If_Any_Object_At
 		/// @DnDVersion : 1
 		/// @DnDHash : 1EEA4344
 		/// @DnDParent : 05955802
-		/// @DnDArgument : "x" "200"
+		/// @DnDArgument : "x" "-200"
 		/// @DnDArgument : "x_relative" "1"
 		/// @DnDArgument : "y" "0"
 		/// @DnDArgument : "y_relative" "1"
-		x += 200;y += 0;}
+		x += -200;y += 0;}
 
 	/// @DnDAction : YoYo Games.Common.Else
 	/// @DnDVersion : 1

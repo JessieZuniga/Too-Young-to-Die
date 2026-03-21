@@ -2,7 +2,7 @@
   "FolderOrderSettings":[
     {"name":"GameOver_Menu","order":6,"path":"folders/GameOver_Menu.yy",},
     {"name":"Hallway","order":1,"path":"folders/Hallway.yy",},
-    {"name":"Laptop_room","order":11,"path":"folders/Laptop_room.yy",},
+    {"name":"Laptop_room_puzzle","order":11,"path":"folders/Laptop_room_puzzle.yy",},
     {"name":"obj_laptop_puzzle","order":14,"path":"folders/obj_laptop_puzzle.yy",},
     {"name":"Obj_Patient_Room","order":5,"path":"folders/Obj_Patient_Room.yy",},
     {"name":"Objects_gameover","order":10,"path":"folders/Objects_gameover.yy",},
