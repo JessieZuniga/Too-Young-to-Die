@@ -32,6 +32,7 @@
     {"name":"piece_6","order":6,"path":"objects/piece_6/piece_6.yy",},
     {"name":"piece_7","order":7,"path":"objects/piece_7/piece_7.yy",},
     {"name":"piece_8","order":8,"path":"objects/piece_8/piece_8.yy",},
+    {"name":"piece_9_placeholder","order":10,"path":"objects/piece_9_placeholder/piece_9_placeholder.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"Background_Hallway","order":1,"path":"sprites/Background_Hallway/Background_Hallway.yy",},
     {"name":"Background_Office","order":1,"path":"sprites/Background_Office/Background_Office.yy",},
@@ -44,6 +45,7 @@
     {"name":"slider_puzzle_spr_6","order":5,"path":"sprites/slider_puzzle_spr_6/slider_puzzle_spr_6.yy",},
     {"name":"slider_puzzle_spr_7","order":6,"path":"sprites/slider_puzzle_spr_7/slider_puzzle_spr_7.yy",},
     {"name":"slider_puzzle_spr_8","order":7,"path":"sprites/slider_puzzle_spr_8/slider_puzzle_spr_8.yy",},
+    {"name":"slider_puzzle_spr_9","order":9,"path":"sprites/slider_puzzle_spr_9/slider_puzzle_spr_9.yy",},
     {"name":"Sprite4","order":1,"path":"sprites/Sprite4/Sprite4.yy",},
   ],
 }
