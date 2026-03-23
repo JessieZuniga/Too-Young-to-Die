@@ -22,6 +22,7 @@
     {"name":"obj_button_enter_Office_room","order":1,"path":"objects/obj_button_enter_Office_room/obj_button_enter_Office_room.yy",},
     {"name":"obj_button_office_to_laptop","order":1,"path":"objects/obj_button_office_to_laptop/obj_button_office_to_laptop.yy",},
     {"name":"obj_button_play","order":1,"path":"objects/obj_button_play/obj_button_play.yy",},
+    {"name":"obj_button_puzzle_reset","order":11,"path":"objects/obj_button_puzzle_reset/obj_button_puzzle_reset.yy",},
     {"name":"obj_button_puzzle_to_office","order":9,"path":"objects/obj_button_puzzle_to_office/obj_button_puzzle_to_office.yy",},
     {"name":"obj_button_quit","order":4,"path":"objects/obj_button_quit/obj_button_quit.yy",},
     {"name":"Obj_initializer","order":1,"path":"objects/Obj_initializer/Obj_initializer.yy",},

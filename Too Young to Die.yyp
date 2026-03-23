@@ -46,6 +46,7 @@
     {"id":{"name":"Obj_button_parent","path":"objects/Obj_button_parent/Obj_button_parent.yy",},},
     {"id":{"name":"obj_button_Patient_to_Hallway","path":"objects/obj_button_Patient_to_Hallway/obj_button_Patient_to_Hallway.yy",},},
     {"id":{"name":"obj_button_play","path":"objects/obj_button_play/obj_button_play.yy",},},
+    {"id":{"name":"obj_button_puzzle_reset","path":"objects/obj_button_puzzle_reset/obj_button_puzzle_reset.yy",},},
     {"id":{"name":"obj_button_puzzle_to_office","path":"objects/obj_button_puzzle_to_office/obj_button_puzzle_to_office.yy",},},
     {"id":{"name":"obj_button_quit","path":"objects/obj_button_quit/obj_button_quit.yy",},},
     {"id":{"name":"Obj_controller","path":"objects/Obj_controller/Obj_controller.yy",},},
