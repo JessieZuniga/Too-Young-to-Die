@@ -1,6 +1,6 @@
 /// @DnDAction : YoYo Games.Drawing.Draw_Self
 /// @DnDVersion : 1
-/// @DnDHash : 3A11B578
+/// @DnDHash : 72C7BE5D
 draw_self();
 
 /// @DnDAction : YoYo Games.Drawing.Set_Font

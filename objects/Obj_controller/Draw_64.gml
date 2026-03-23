@@ -15,3 +15,10 @@ var temp = floor(global.global_timer);
 /// @DnDArgument : "caption" ""Timeleft: ""
 /// @DnDArgument : "var" "temp"
 draw_text(50, 50, string("Timeleft: ") + string(temp));
+
+/// @DnDAction : YoYo Games.Drawing.Set_Color
+/// @DnDVersion : 1
+/// @DnDHash : 717A5CD6
+draw_set_colour($FFFFFFFF & $ffffff);
+var l717A5CD6_0=($FFFFFFFF >> 24);
+draw_set_alpha(l717A5CD6_0 / $ff);
