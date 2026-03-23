@@ -36,6 +36,7 @@
   "name":"Too Young to Die",
   "resources":[
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
+    {"id":{"name":"global_laptop_puzzle_piece_1","path":"objects/global_laptop_puzzle_piece_1/global_laptop_puzzle_piece_1.yy",},},
     {"id":{"name":"Intructions","path":"objects/Intructions/Intructions.yy",},},
     {"id":{"name":"obj_button_controls","path":"objects/obj_button_controls/obj_button_controls.yy",},},
     {"id":{"name":"obj_button_enter_Office_room","path":"objects/obj_button_enter_Office_room/obj_button_enter_Office_room.yy",},},
@@ -61,7 +62,6 @@
     {"id":{"name":"piece_6","path":"objects/piece_6/piece_6.yy",},},
     {"id":{"name":"piece_7","path":"objects/piece_7/piece_7.yy",},},
     {"id":{"name":"piece_8","path":"objects/piece_8/piece_8.yy",},},
-    {"id":{"name":"piece_9_placeholder","path":"objects/piece_9_placeholder/piece_9_placeholder.yy",},},
     {"id":{"name":"gameover_screen","path":"rooms/gameover_screen/gameover_screen.yy",},},
     {"id":{"name":"laptop","path":"rooms/laptop/laptop.yy",},},
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},

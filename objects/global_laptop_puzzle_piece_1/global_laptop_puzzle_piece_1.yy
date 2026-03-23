@@ -1,6 +1,6 @@
 {
   "$GMObject":"",
-  "%Name":"piece_9_placeholder",
+  "%Name":"global_laptop_puzzle_piece_1",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
@@ -8,7 +8,7 @@
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"piece_9_placeholder",
+  "name":"global_laptop_puzzle_piece_1",
   "overriddenProperties":[],
   "parent":{
     "name":"obj_laptop_puzzle",
