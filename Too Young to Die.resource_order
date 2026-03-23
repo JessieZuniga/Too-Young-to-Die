@@ -1,6 +1,7 @@
 {
   "FolderOrderSettings":[
     {"name":"GameOver_Menu","order":6,"path":"folders/GameOver_Menu.yy",},
+    {"name":"Laptop_puzzle_obj_controller","order":15,"path":"folders/Laptop_puzzle_obj_controller.yy",},
     {"name":"Hallway","order":1,"path":"folders/Hallway.yy",},
     {"name":"Laptop_room_puzzle","order":11,"path":"folders/Laptop_room_puzzle.yy",},
     {"name":"obj_laptop_puzzle","order":14,"path":"folders/obj_laptop_puzzle.yy",},
