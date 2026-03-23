@@ -1,3 +1,8 @@
+/// @DnDAction : YoYo Games.Random.Randomize
+/// @DnDVersion : 1
+/// @DnDHash : 1A89B8BC
+randomize();
+
 /// @DnDAction : YoYo Games.Collisions.If_Any_Object_At
 /// @DnDVersion : 1
 /// @DnDHash : 39041251
