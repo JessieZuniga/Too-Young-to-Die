@@ -37,5 +37,5 @@
     "path":"sprites/slider_puzzle_spr_9/slider_puzzle_spr_9.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

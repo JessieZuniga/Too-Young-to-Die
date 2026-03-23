@@ -108,9 +108,9 @@ if(x == 540){	/// @DnDAction : YoYo Games.Common.If_Variable
 		/// @DnDArgument : "ypos" "460"
 		/// @DnDArgument : "ypos_relative" "1"
 		/// @DnDArgument : "objectid" "global_laptop_puzzle_piece_1"
-		/// @DnDArgument : "layer" "instance_create_layer(visible)"
+		/// @DnDArgument : "layer" "layer_set_visible(global_laptop_puzzle_piece_1,visible)"
 		/// @DnDSaveInfo : "objectid" "global_laptop_puzzle_piece_1"
-		instance_create_layer(x + 740, y + 460, instance_create_layer(visible), global_laptop_puzzle_piece_1);}}
+		instance_create_layer(x + 740, y + 460, layer_set_visible(global_laptop_puzzle_piece_1,visible), global_laptop_puzzle_piece_1);}}
 
 /// @DnDAction : YoYo Games.Common.Else
 /// @DnDVersion : 1
