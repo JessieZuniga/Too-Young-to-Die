@@ -1,11 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"Object25",
+  "%Name":"laptop_puzzle_controller",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Object25",
+  "name":"laptop_puzzle_controller",
   "overriddenProperties":[],
   "parent":{
     "name":"Laptop_puzzle_obj_controller",

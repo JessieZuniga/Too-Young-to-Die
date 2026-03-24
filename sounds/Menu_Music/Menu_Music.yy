@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"Menu_Music",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":91.74345,
+  "exportDir":"",
+  "name":"Menu_Music",
+  "parent":{
+    "name":"Music",
+    "path":"folders/Music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Menu_Music.wav",
+  "volume":0.2,
+}
