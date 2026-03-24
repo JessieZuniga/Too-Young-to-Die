@@ -1,6 +1,6 @@
 {
   "$GMSound":"v2",
-  "%Name":"Door_soundeffect",
+  "%Name":"Office_Music",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -12,7 +12,7 @@
   "conversionMode":0,
   "duration":65.45846,
   "exportDir":"",
-  "name":"Door_soundeffect",
+  "name":"Office_Music",
   "parent":{
     "name":"Music",
     "path":"folders/Music.yy",
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"Door_soundeffect.wav",
+  "soundFile":"Office_Music.wav",
   "volume":1.0,
 }

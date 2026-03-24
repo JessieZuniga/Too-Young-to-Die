@@ -1,6 +1,6 @@
 {
   "$GMSound":"v2",
-  "%Name":"Door_soundeffect",
+  "%Name":"Hallway_Music",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,9 +10,9 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":65.45846,
+  "duration":159.94,
   "exportDir":"",
-  "name":"Door_soundeffect",
+  "name":"Hallway_Music",
   "parent":{
     "name":"Music",
     "path":"folders/Music.yy",
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"Door_soundeffect.wav",
-  "volume":1.0,
+  "soundFile":"Hallway_Music.wav",
+  "volume":0.4,
 }

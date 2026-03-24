@@ -1,3 +1,14 @@
+/// @DnDAction : YoYo Games.Mouse & Keyboard.If_Mouse_Pressed
+/// @DnDVersion : 1.1
+/// @DnDHash : 456E58A1
+var l456E58A1_0;l456E58A1_0 = mouse_check_button_pressed(mb_left);if (l456E58A1_0){	/// @DnDAction : YoYo Games.Audio.Play_Audio
+	/// @DnDVersion : 1.1
+	/// @DnDHash : 60708910
+	/// @DnDParent : 456E58A1
+	/// @DnDArgument : "soundid" "Ui_Button_soundeffect"
+	/// @DnDSaveInfo : "soundid" "Ui_Button_soundeffect"
+	audio_play_sound(Ui_Button_soundeffect, 0, 0, 1.0, undefined, 1.0);}
+
 /// @DnDAction : YoYo Games.Instances.Inherit_Event
 /// @DnDVersion : 1
 /// @DnDHash : 64156ECF

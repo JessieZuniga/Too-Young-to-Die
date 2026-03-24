@@ -10,6 +10,7 @@
     {"name":"inst_CE160FD","path":"rooms/Room3/Room3.yy",},
     {"name":"inst_5B63C13","path":"rooms/Room3/Room3.yy",},
     {"name":"inst_1A54AB2D","path":"rooms/Room3/Room3.yy",},
+    {"name":"inst_1759BBAD","path":"rooms/Room3/Room3.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -18,6 +19,7 @@
         {"$GMRInstance":"v4","%Name":"inst_CE160FD","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_CE160FD","objectId":{"name":"Obj_controller","path":"objects/Obj_controller/Obj_controller.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":704.0,"y":416.0,},
         {"$GMRInstance":"v4","%Name":"inst_5B63C13","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5B63C13","objectId":{"name":"obj_button_Office_to_Hallway","path":"objects/obj_button_Office_to_Hallway/obj_button_Office_to_Hallway.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":6.0,"scaleY":3.0,"x":224.0,"y":672.0,},
         {"$GMRInstance":"v4","%Name":"inst_1A54AB2D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1A54AB2D","objectId":{"name":"obj_button_office_to_laptop","path":"objects/obj_button_office_to_laptop/obj_button_office_to_laptop.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.0,"scaleY":2.0,"x":480.0,"y":352.0,},
+        {"$GMRInstance":"v4","%Name":"inst_1759BBAD","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1759BBAD","objectId":{"name":"obj_Office_music","path":"objects/obj_Office_music/obj_Office_music.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":736.0,"y":416.0,},
       ],"layers":[],"name":"Instances_1","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_11F541BF","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_11F541BF","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"Background_Office","path":"sprites/Background_Office/Background_Office.yy",},"x":0.0,"y":0.0,},
