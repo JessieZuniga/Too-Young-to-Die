@@ -17,7 +17,7 @@
   ],
   "ResourceOrderSettings":[
     {"name":"Font1","order":2,"path":"fonts/Font1/Font1.yy",},
-    {"name":"global_laptop_puzzle_piece_1","order":10,"path":"objects/global_laptop_puzzle_piece_1/global_laptop_puzzle_piece_1.yy",},
+    {"name":"global_laptop_puzzle_piece","order":10,"path":"objects/global_laptop_puzzle_piece/global_laptop_puzzle_piece.yy",},
     {"name":"Intructions","order":6,"path":"objects/Intructions/Intructions.yy",},
     {"name":"obj_button_controls","order":3,"path":"objects/obj_button_controls/obj_button_controls.yy",},
     {"name":"obj_button_enter_Office_room","order":1,"path":"objects/obj_button_enter_Office_room/obj_button_enter_Office_room.yy",},
@@ -26,6 +26,7 @@
     {"name":"obj_button_puzzle_reset","order":11,"path":"objects/obj_button_puzzle_reset/obj_button_puzzle_reset.yy",},
     {"name":"obj_button_puzzle_to_office","order":9,"path":"objects/obj_button_puzzle_to_office/obj_button_puzzle_to_office.yy",},
     {"name":"obj_button_quit","order":4,"path":"objects/obj_button_quit/obj_button_quit.yy",},
+    {"name":"obj_final_piece","order":12,"path":"objects/obj_final_piece/obj_final_piece.yy",},
     {"name":"Obj_initializer","order":1,"path":"objects/Obj_initializer/Obj_initializer.yy",},
     {"name":"piece_1","order":1,"path":"objects/piece_1/piece_1.yy",},
     {"name":"piece_2","order":2,"path":"objects/piece_2/piece_2.yy",},
@@ -48,6 +49,7 @@
     {"name":"slider_puzzle_spr_7","order":6,"path":"sprites/slider_puzzle_spr_7/slider_puzzle_spr_7.yy",},
     {"name":"slider_puzzle_spr_8","order":7,"path":"sprites/slider_puzzle_spr_8/slider_puzzle_spr_8.yy",},
     {"name":"slider_puzzle_spr_9","order":9,"path":"sprites/slider_puzzle_spr_9/slider_puzzle_spr_9.yy",},
+    {"name":"Sprite16","order":16,"path":"sprites/Sprite16/Sprite16.yy",},
     {"name":"Sprite4","order":1,"path":"sprites/Sprite4/Sprite4.yy",},
   ],
 }

@@ -104,18 +104,13 @@ if(x == 340){	/// @DnDAction : YoYo Games.Common.If_Variable
 		/// @DnDArgument : "var" "LaptopPuzzle_Piece_1"
 		global.LaptopPuzzle_Piece_1 = 1;
 	
-		/// @DnDAction : YoYo Games.Instances.Create_Instance
+		/// @DnDAction : YoYo Games.Instances.Set_Instance_Var
 		/// @DnDVersion : 1
-		/// @DnDHash : 62E43038
+		/// @DnDHash : 264D7A0E
 		/// @DnDParent : 021940E5
-		/// @DnDArgument : "xpos" "740"
-		/// @DnDArgument : "xpos_relative" "1"
-		/// @DnDArgument : "ypos" "460"
-		/// @DnDArgument : "ypos_relative" "1"
-		/// @DnDArgument : "objectid" "global_laptop_puzzle_piece_1"
-		/// @DnDArgument : "layer" "layer_set_visible(global_laptop_puzzle_piece_1,visible)"
-		/// @DnDSaveInfo : "objectid" "global_laptop_puzzle_piece_1"
-		instance_create_layer(x + 740, y + 460, layer_set_visible(global_laptop_puzzle_piece_1,visible), global_laptop_puzzle_piece_1);}}
+		/// @DnDArgument : "value" "1"
+		/// @DnDArgument : "instvar" "6"
+		visible = 1;}}
 
 /// @DnDAction : YoYo Games.Common.Else
 /// @DnDVersion : 1
@@ -125,4 +120,11 @@ else{	/// @DnDAction : YoYo Games.Common.Set_Global
 	/// @DnDHash : 42C914BD
 	/// @DnDParent : 4DDB6AC2
 	/// @DnDArgument : "var" "LaptopPuzzle_Piece_1"
-	global.LaptopPuzzle_Piece_1 = 0;}
+	global.LaptopPuzzle_Piece_1 = 0;
+
+	/// @DnDAction : YoYo Games.Instances.Set_Instance_Var
+	/// @DnDVersion : 1
+	/// @DnDHash : 0746E113
+	/// @DnDParent : 4DDB6AC2
+	/// @DnDArgument : "instvar" "6"
+	visible = 0;}
