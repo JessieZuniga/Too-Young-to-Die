@@ -1,7 +1,6 @@
 {
   "FolderOrderSettings":[
     {"name":"GameOver_Menu","order":6,"path":"folders/GameOver_Menu.yy",},
-    {"name":"Xray_room","order":21,"path":"folders/Xray_room.yy",},
     {"name":"Laptop_puzzle_obj_controller","order":14,"path":"folders/Laptop_puzzle_obj_controller.yy",},
     {"name":"Laptop_room_puzzle","order":11,"path":"folders/Laptop_room_puzzle.yy",},
     {"name":"Left_Hallway","order":18,"path":"folders/Left_Hallway.yy",},
@@ -19,6 +18,7 @@
     {"name":"Spr_Laptop_Puzzle","order":12,"path":"folders/Spr_Laptop_Puzzle.yy",},
     {"name":"The Menu","order":2,"path":"folders/The Menu.yy",},
     {"name":"Timer_Folder","order":7,"path":"folders/Timer_Folder.yy",},
+    {"name":"Xray_room","order":21,"path":"folders/Xray_room.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"Font1","order":2,"path":"fonts/Font1/Font1.yy",},

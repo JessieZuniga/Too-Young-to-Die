@@ -11,7 +11,6 @@
   "defaultScriptType":0,
   "Folders":[
     {"$GMFolder":"","%Name":"GameOver_Menu","folderPath":"folders/GameOver_Menu.yy","name":"GameOver_Menu","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Xray_room","folderPath":"folders/Xray_room.yy","name":"Xray_room","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Laptop_puzzle_obj_controller","folderPath":"folders/Laptop_puzzle_obj_controller.yy","name":"Laptop_puzzle_obj_controller","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Laptop_room_puzzle","folderPath":"folders/Laptop_room_puzzle.yy","name":"Laptop_room_puzzle","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Left_Hallway","folderPath":"folders/Left_Hallway.yy","name":"Left_Hallway","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -30,6 +29,7 @@
     {"$GMFolder":"","%Name":"Spr_Laptop_Puzzle","folderPath":"folders/Spr_Laptop_Puzzle.yy","name":"Spr_Laptop_Puzzle","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"The Menu","folderPath":"folders/The Menu.yy","name":"The Menu","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timer_Folder","folderPath":"folders/Timer_Folder.yy","name":"Timer_Folder","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Xray_room","folderPath":"folders/Xray_room.yy","name":"Xray_room","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
