@@ -95,8 +95,6 @@
     {"id":{"name":"slider_puzzle_spr_9","path":"sprites/slider_puzzle_spr_9/slider_puzzle_spr_9.yy",},},
     {"id":{"name":"spr_play_button","path":"sprites/spr_play_button/spr_play_button.yy",},},
     {"id":{"name":"spr_regular_button","path":"sprites/spr_regular_button/spr_regular_button.yy",},},
-    {"id":{"name":"Sprite18","path":"sprites/Sprite18/Sprite18.yy",},},
-    {"id":{"name":"Sprite19","path":"sprites/Sprite19/Sprite19.yy",},},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
   ],
   "resourceType":"GMProject",

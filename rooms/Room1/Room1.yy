@@ -6,18 +6,18 @@
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_1349C1AB","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_1925963E","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_11B1ABE4","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_77AF319D","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_12289501","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_374AD468","path":"rooms/Room1/Room1.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances_1","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v4","%Name":"inst_1349C1AB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1349C1AB","objectId":{"name":"obj_button_enter_Patient_room","path":"objects/obj_button_enter_Patient_room/obj_button_enter_Patient_room.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":5.0,"scaleY":3.0,"x":1088.0,"y":512.0,},
         {"$GMRInstance":"v4","%Name":"inst_1925963E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1925963E","objectId":{"name":"Obj_controller","path":"objects/Obj_controller/Obj_controller.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":672.0,"y":416.0,},
-        {"$GMRInstance":"v4","%Name":"inst_11B1ABE4","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_11B1ABE4","objectId":{"name":"obj_button_enter_Office_room","path":"objects/obj_button_enter_Office_room/obj_button_enter_Office_room.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":5.5,"scaleY":3.0,"x":352.0,"y":512.0,},
         {"$GMRInstance":"v4","%Name":"inst_77AF319D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_77AF319D","objectId":{"name":"obj_Hallway_music","path":"objects/obj_Hallway_music/obj_Hallway_music.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":736.0,"y":416.0,},
+        {"$GMRInstance":"v4","%Name":"inst_12289501","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_12289501","objectId":{"name":"obj_button_enter_Patient_room","path":"objects/obj_button_enter_Patient_room/obj_button_enter_Patient_room.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.21444045,"scaleY":0.16666667,"x":1056.0,"y":512.0,},
+        {"$GMRInstance":"v4","%Name":"inst_374AD468","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_374AD468","objectId":{"name":"obj_button_enter_Office_room","path":"objects/obj_button_enter_Office_room/obj_button_enter_Office_room.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.2144404,"scaleY":0.16666667,"x":320.0,"y":512.0,},
       ],"layers":[],"name":"Instances_1","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_42DAB872","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_42DAB872","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"Background_Hallway","path":"sprites/Background_Hallway/Background_Hallway.yy",},"x":0.0,"y":0.0,},
