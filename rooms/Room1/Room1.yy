@@ -10,6 +10,8 @@
     {"name":"inst_1925963E","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_11B1ABE4","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_77AF319D","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_51EBC163","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_68685B1C","path":"rooms/Room1/Room1.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -18,6 +20,8 @@
         {"$GMRInstance":"v4","%Name":"inst_11B1ABE4","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_11B1ABE4","objectId":{"name":"obj_button_enter_Office_room","path":"objects/obj_button_enter_Office_room/obj_button_enter_Office_room.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.23212996,"scaleY":0.16666667,"x":352.0,"y":448.0,},
         {"$GMRInstance":"v4","%Name":"inst_1925963E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1925963E","objectId":{"name":"Obj_controller","path":"objects/Obj_controller/Obj_controller.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":672.0,"y":416.0,},
         {"$GMRInstance":"v4","%Name":"inst_77AF319D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_77AF319D","objectId":{"name":"obj_Hallway_music","path":"objects/obj_Hallway_music/obj_Hallway_music.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":736.0,"y":416.0,},
+        {"$GMRInstance":"v4","%Name":"inst_51EBC163","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_51EBC163","objectId":{"name":"obj_button_enter_Left_Hallway","path":"objects/obj_button_enter_Left_Hallway/obj_button_enter_Left_Hallway.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.23754513,"scaleY":0.16666667,"x":160.0,"y":640.0,},
+        {"$GMRInstance":"v4","%Name":"inst_68685B1C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_68685B1C","objectId":{"name":"obj_button_enter_Right_Hallway","path":"objects/obj_button_enter_Right_Hallway/obj_button_enter_Right_Hallway.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.2606498,"scaleY":0.16666666,"x":1216.0,"y":640.0,},
       ],"layers":[],"name":"Instances_1","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_42DAB872","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_42DAB872","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"Background_Hallway","path":"sprites/Background_Hallway/Background_Hallway.yy",},"x":0.0,"y":0.0,},
@@ -27,8 +31,8 @@
   ],
   "name":"Room1",
   "parent":{
-    "name":"Hallway",
-    "path":"folders/Hallway.yy",
+    "name":"Main_Hallway",
+    "path":"folders/Main_Hallway.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

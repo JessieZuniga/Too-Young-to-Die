@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Hallway",
-    "path":"folders/Hallway.yy",
+    "name":"Main_Hallway",
+    "path":"folders/Main_Hallway.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
