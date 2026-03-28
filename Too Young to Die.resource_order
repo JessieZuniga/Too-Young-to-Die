@@ -1,11 +1,11 @@
 {
   "FolderOrderSettings":[
     {"name":"GameOver_Menu","order":6,"path":"folders/GameOver_Menu.yy",},
-    {"name":"Music","order":17,"path":"folders/Music.yy",},
     {"name":"Hallway","order":1,"path":"folders/Hallway.yy",},
-    {"name":"Laptop_puzzle_obj_controller","order":15,"path":"folders/Laptop_puzzle_obj_controller.yy",},
+    {"name":"Laptop_puzzle_obj_controller","order":14,"path":"folders/Laptop_puzzle_obj_controller.yy",},
     {"name":"Laptop_room_puzzle","order":11,"path":"folders/Laptop_room_puzzle.yy",},
-    {"name":"obj_laptop_puzzle","order":14,"path":"folders/obj_laptop_puzzle.yy",},
+    {"name":"Music","order":15,"path":"folders/Music.yy",},
+    {"name":"obj_laptop_puzzle","order":13,"path":"folders/obj_laptop_puzzle.yy",},
     {"name":"Obj_Patient_Room","order":5,"path":"folders/Obj_Patient_Room.yy",},
     {"name":"Objects_gameover","order":10,"path":"folders/Objects_gameover.yy",},
     {"name":"Objects_Hallway","order":4,"path":"folders/Objects_Hallway.yy",},
@@ -15,6 +15,7 @@
     {"name":"Spr_Laptop_Puzzle","order":12,"path":"folders/Spr_Laptop_Puzzle.yy",},
     {"name":"The Menu","order":2,"path":"folders/The Menu.yy",},
     {"name":"Timer_Folder","order":7,"path":"folders/Timer_Folder.yy",},
+    {"name":"Spr_button","order":16,"path":"folders/Spr_button.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"Font1","order":2,"path":"fonts/Font1/Font1.yy",},
@@ -57,6 +58,7 @@
     {"name":"slider_puzzle_spr_7","order":6,"path":"sprites/slider_puzzle_spr_7/slider_puzzle_spr_7.yy",},
     {"name":"slider_puzzle_spr_8","order":7,"path":"sprites/slider_puzzle_spr_8/slider_puzzle_spr_8.yy",},
     {"name":"slider_puzzle_spr_9","order":9,"path":"sprites/slider_puzzle_spr_9/slider_puzzle_spr_9.yy",},
+    {"name":"spr_play_button","order":1,"path":"sprites/spr_play_button/spr_play_button.yy",},
     {"name":"Sprite4","order":1,"path":"sprites/Sprite4/Sprite4.yy",},
   ],
 }
