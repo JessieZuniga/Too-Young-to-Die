@@ -12,10 +12,10 @@
     {"name":"Objects_Office","order":9,"path":"folders/Objects_Office.yy",},
     {"name":"Office_Room","order":8,"path":"folders/Office_Room.yy",},
     {"name":"Patient_Room","order":3,"path":"folders/Patient_Room.yy",},
+    {"name":"Spr_button","order":16,"path":"folders/Spr_button.yy",},
     {"name":"Spr_Laptop_Puzzle","order":12,"path":"folders/Spr_Laptop_Puzzle.yy",},
     {"name":"The Menu","order":2,"path":"folders/The Menu.yy",},
     {"name":"Timer_Folder","order":7,"path":"folders/Timer_Folder.yy",},
-    {"name":"Spr_button","order":16,"path":"folders/Spr_button.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"Font1","order":2,"path":"fonts/Font1/Font1.yy",},
