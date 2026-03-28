@@ -1,9 +1,10 @@
 {
   "FolderOrderSettings":[
     {"name":"GameOver_Menu","order":6,"path":"folders/GameOver_Menu.yy",},
-    {"name":"Left_Hallway","order":18,"path":"folders/Left_Hallway.yy",},
     {"name":"Laptop_puzzle_obj_controller","order":14,"path":"folders/Laptop_puzzle_obj_controller.yy",},
     {"name":"Laptop_room_puzzle","order":11,"path":"folders/Laptop_room_puzzle.yy",},
+    {"name":"Left_Hallway","order":17,"path":"folders/Left_Hallway.yy",},
+    {"name":"Obj_Left_Hallway","order":18,"path":"folders/Obj_Left_Hallway.yy",},
     {"name":"Main_Hallway","order":1,"path":"folders/Main_Hallway.yy",},
     {"name":"Music","order":15,"path":"folders/Music.yy",},
     {"name":"obj_laptop_puzzle","order":13,"path":"folders/obj_laptop_puzzle.yy",},
@@ -43,7 +44,6 @@
     {"name":"piece_6","order":6,"path":"objects/piece_6/piece_6.yy",},
     {"name":"piece_7","order":7,"path":"objects/piece_7/piece_7.yy",},
     {"name":"piece_8","order":8,"path":"objects/piece_8/piece_8.yy",},
-    {"name":"Left_Hallway_room","order":17,"path":"rooms/Left_Hallway_room/Left_Hallway_room.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"Door_soundeffect","order":3,"path":"sounds/Door_soundeffect/Door_soundeffect.yy",},
     {"name":"Hallway_Music","order":6,"path":"sounds/Hallway_Music/Hallway_Music.yy",},
@@ -52,6 +52,7 @@
     {"name":"Ui_Button_soundeffect","order":4,"path":"sounds/Ui_Button_soundeffect/Ui_Button_soundeffect.yy",},
     {"name":"Background_Hallway","order":1,"path":"sprites/Background_Hallway/Background_Hallway.yy",},
     {"name":"Background_Office","order":1,"path":"sprites/Background_Office/Background_Office.yy",},
+    {"name":"Left_Hallway_Background","order":1,"path":"sprites/Left_Hallway_Background/Left_Hallway_Background.yy",},
     {"name":"obj_button","order":5,"path":"sprites/obj_button/obj_button.yy",},
     {"name":"overlay_spr","order":8,"path":"sprites/overlay_spr/overlay_spr.yy",},
     {"name":"slider_puzzle_spr_2","order":1,"path":"sprites/slider_puzzle_spr_2/slider_puzzle_spr_2.yy",},
