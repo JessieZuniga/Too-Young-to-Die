@@ -1,10 +1,11 @@
 {
   "FolderOrderSettings":[
     {"name":"GameOver_Menu","order":6,"path":"folders/GameOver_Menu.yy",},
-    {"name":"Music","order":17,"path":"folders/Music.yy",},
+    {"name":"Spr_Button","order":20,"path":"folders/Spr_Button.yy",},
     {"name":"Hallway","order":1,"path":"folders/Hallway.yy",},
     {"name":"Laptop_puzzle_obj_controller","order":15,"path":"folders/Laptop_puzzle_obj_controller.yy",},
     {"name":"Laptop_room_puzzle","order":11,"path":"folders/Laptop_room_puzzle.yy",},
+    {"name":"Music","order":17,"path":"folders/Music.yy",},
     {"name":"obj_laptop_puzzle","order":14,"path":"folders/obj_laptop_puzzle.yy",},
     {"name":"Obj_Patient_Room","order":5,"path":"folders/Obj_Patient_Room.yy",},
     {"name":"Objects_gameover","order":10,"path":"folders/Objects_gameover.yy",},
@@ -57,6 +58,9 @@
     {"name":"slider_puzzle_spr_7","order":6,"path":"sprites/slider_puzzle_spr_7/slider_puzzle_spr_7.yy",},
     {"name":"slider_puzzle_spr_8","order":7,"path":"sprites/slider_puzzle_spr_8/slider_puzzle_spr_8.yy",},
     {"name":"slider_puzzle_spr_9","order":9,"path":"sprites/slider_puzzle_spr_9/slider_puzzle_spr_9.yy",},
+    {"name":"spr_regular_button","order":1,"path":"sprites/spr_regular_button/spr_regular_button.yy",},
+    {"name":"Sprite18","order":21,"path":"sprites/Sprite18/Sprite18.yy",},
+    {"name":"Sprite19","order":22,"path":"sprites/Sprite19/Sprite19.yy",},
     {"name":"Sprite4","order":1,"path":"sprites/Sprite4/Sprite4.yy",},
   ],
 }
