@@ -1,17 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_button_mini_hallway_to_main_hallway",
+  "%Name":"obj_button_return_main_Hallway",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_button_mini_hallway_to_main_hallway",
+  "name":"obj_button_return_main_Hallway",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"Obj_button_parent","path":"objects/Obj_button_parent/Obj_button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/Obj_button_parent/Obj_button_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"Obj_button_parent","path":"objects/Obj_button_parent/Obj_button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/Obj_button_parent/Obj_button_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Return",},
   ],
   "parent":{
-    "name":"Right_Hallway",
-    "path":"folders/Right_Hallway.yy",
+    "name":"Obj_Left_Hallway",
+    "path":"folders/Obj_Left_Hallway.yy",
   },
   "parentObjectId":{
     "name":"Obj_button_parent",
@@ -35,8 +35,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_left_button",
-    "path":"sprites/spr_left_button/spr_left_button.yy",
+    "name":"spr_regluar_button",
+    "path":"sprites/spr_regluar_button/spr_regluar_button.yy",
   },
   "spriteMaskId":null,
   "visible":true,

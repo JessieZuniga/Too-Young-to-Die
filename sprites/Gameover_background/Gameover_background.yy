@@ -1,6 +1,10 @@
 {
   "$GMSprite":"v2",
+<<<<<<<< HEAD:sprites/Gameover_background/Gameover_background.yy
   "%Name":"Gameover_background",
+========
+  "%Name":"Spr",
+>>>>>>>> origin/main:sprites/Spr/Spr.yy
   "bboxMode":0,
   "bbox_bottom":767,
   "bbox_left":0,
@@ -12,16 +16,26 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
+<<<<<<<< HEAD:sprites/Gameover_background/Gameover_background.yy
     {"$GMSpriteFrame":"v1","%Name":"0c588d48-e06a-486e-93be-7f891fd29950","name":"0c588d48-e06a-486e-93be-7f891fd29950","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+========
+    {"$GMSpriteFrame":"v1","%Name":"24d680ab-5e56-4659-8b62-cd6c832b947b","name":"24d680ab-5e56-4659-8b62-cd6c832b947b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+>>>>>>>> origin/main:sprites/Spr/Spr.yy
   ],
   "gridX":0,
   "gridY":0,
   "height":768,
   "HTile":false,
   "layers":[
+<<<<<<<< HEAD:sprites/Gameover_background/Gameover_background.yy
     {"$GMImageLayer":"","%Name":"db76be1b-a505-4c64-af9d-276f28267700","blendMode":0,"displayName":"default","isLocked":false,"name":"db76be1b-a505-4c64-af9d-276f28267700","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"Gameover_background",
+========
+    {"$GMImageLayer":"","%Name":"b1ab5d41-1dfb-40cd-90f4-5d271f5fbd85","blendMode":0,"displayName":"default","isLocked":false,"name":"b1ab5d41-1dfb-40cd-90f4-5d271f5fbd85","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+  ],
+  "name":"Spr",
+>>>>>>>> origin/main:sprites/Spr/Spr.yy
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +47,11 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
+<<<<<<<< HEAD:sprites/Gameover_background/Gameover_background.yy
     "%Name":"Gameover_background",
+========
+    "%Name":"Spr",
+>>>>>>>> origin/main:sprites/Spr/Spr.yy
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +75,11 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
+<<<<<<<< HEAD:sprites/Gameover_background/Gameover_background.yy
     "name":"Gameover_background",
+========
+    "name":"Spr",
+>>>>>>>> origin/main:sprites/Spr/Spr.yy
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,8 +91,13 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+<<<<<<<< HEAD:sprites/Gameover_background/Gameover_background.yy
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0c588d48-e06a-486e-93be-7f891fd29950","path":"sprites/Gameover_background/Gameover_background.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"14ca1302-548a-48de-9508-852dbf8dd224","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+========
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"24d680ab-5e56-4659-8b62-cd6c832b947b","path":"sprites/Spr/Spr.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"b8c5effb-7352-4cae-bb60-420c367d84c4","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+>>>>>>>> origin/main:sprites/Spr/Spr.yy
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
