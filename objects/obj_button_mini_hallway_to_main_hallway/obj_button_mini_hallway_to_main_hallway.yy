@@ -35,8 +35,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_regluar_button",
-    "path":"sprites/spr_regluar_button/spr_regluar_button.yy",
+    "name":"spr_left_button",
+    "path":"sprites/spr_left_button/spr_left_button.yy",
   },
   "spriteMaskId":null,
   "visible":true,
