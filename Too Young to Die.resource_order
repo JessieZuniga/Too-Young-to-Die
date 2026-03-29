@@ -22,6 +22,8 @@
   ],
   "ResourceOrderSettings":[
     {"name":"Font1","order":2,"path":"fonts/Font1/Font1.yy",},
+    {"name":"Font2","order":7,"path":"fonts/Font2/Font2.yy",},
+    {"name":"Gameover_text","order":2,"path":"objects/Gameover_text/Gameover_text.yy",},
     {"name":"global_laptop_puzzle_piece","order":10,"path":"objects/global_laptop_puzzle_piece/global_laptop_puzzle_piece.yy",},
     {"name":"Intructions","order":6,"path":"objects/Intructions/Intructions.yy",},
     {"name":"obj_button_controls","order":3,"path":"objects/obj_button_controls/obj_button_controls.yy",},

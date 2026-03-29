@@ -41,6 +41,8 @@
   "name":"Too Young to Die",
   "resources":[
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
+    {"id":{"name":"Font2","path":"fonts/Font2/Font2.yy",},},
+    {"id":{"name":"Gameover_text","path":"objects/Gameover_text/Gameover_text.yy",},},
     {"id":{"name":"global_laptop_puzzle_piece","path":"objects/global_laptop_puzzle_piece/global_laptop_puzzle_piece.yy",},},
     {"id":{"name":"Intructions","path":"objects/Intructions/Intructions.yy",},},
     {"id":{"name":"laptop_puzzle_controller","path":"objects/laptop_puzzle_controller/laptop_puzzle_controller.yy",},},
