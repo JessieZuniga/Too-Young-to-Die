@@ -2,9 +2,9 @@
   "$GMSprite":"v2",
   "%Name":"Background_Hallway",
   "bboxMode":0,
-  "bbox_bottom":767,
+  "bbox_bottom":2303,
   "bbox_left":0,
-  "bbox_right":1384,
+  "bbox_right":4154,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"bd73c0dc-22bd-4ee5-bbab-96ffe245abb6","name":"bd73c0dc-22bd-4ee5-bbab-96ffe245abb6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"f17d884d-722a-476d-b13f-15e65156e335","name":"f17d884d-722a-476d-b13f-15e65156e335","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":768,
+  "height":2304,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"3489a794-0b99-4963-b341-6b9a4cf743fe","blendMode":0,"displayName":"default","isLocked":false,"name":"3489a794-0b99-4963-b341-6b9a4cf743fe","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"ffda2b97-4807-449a-a18a-f2b2b75fc6d6","blendMode":0,"displayName":"default","isLocked":false,"name":"ffda2b97-4807-449a-a18a-f2b2b75fc6d6","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"Background_Hallway",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"bd73c0dc-22bd-4ee5-bbab-96ffe245abb6","path":"sprites/Background_Hallway/Background_Hallway.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"9a9cb075-28a9-4e69-bb2e-36e07b465806","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f17d884d-722a-476d-b13f-15e65156e335","path":"sprites/Background_Hallway/Background_Hallway.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"2c513528-f36d-46cb-ae0a-4171e95bdffa","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":1385,
+  "width":4155,
 }
