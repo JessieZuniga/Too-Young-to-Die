@@ -96,8 +96,8 @@ if(x == 540){	/// @DnDAction : YoYo Games.Common.If_Variable
 		/// @DnDHash : 52E78535
 		/// @DnDParent : 279C0AD1
 		/// @DnDArgument : "value" "1"
-		/// @DnDArgument : "var" "LaptopPuzzle_Piece_1"
-		global.LaptopPuzzle_Piece_1 = 1;}}
+		/// @DnDArgument : "var" "global.LaptopPuzzle_Piece_8"
+		global.LaptopPuzzle_Piece_8 = 1;}}
 
 /// @DnDAction : YoYo Games.Common.Else
 /// @DnDVersion : 1
@@ -106,5 +106,5 @@ else{	/// @DnDAction : YoYo Games.Common.Set_Global
 	/// @DnDVersion : 1
 	/// @DnDHash : 2F10A80F
 	/// @DnDParent : 3976ED05
-	/// @DnDArgument : "var" "LaptopPuzzle_Piece_1"
-	global.LaptopPuzzle_Piece_1 = 0;}
+	/// @DnDArgument : "var" "global.LaptopPuzzle_Piece_8"
+	global.LaptopPuzzle_Piece_8 = 0;}

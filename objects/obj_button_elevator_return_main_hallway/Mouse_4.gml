@@ -17,6 +17,6 @@ event_inherited();
 /// @DnDAction : YoYo Games.Rooms.Go_To_Room
 /// @DnDVersion : 1
 /// @DnDHash : 5D8FA56B
-/// @DnDArgument : "room" "main_hallway"
-/// @DnDSaveInfo : "room" "main_hallway"
-room_goto(main_hallway);
+/// @DnDArgument : "room" "hallway_elevator"
+/// @DnDSaveInfo : "room" "hallway_elevator"
+room_goto(hallway_elevator);
