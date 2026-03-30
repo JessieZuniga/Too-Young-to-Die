@@ -9,6 +9,7 @@
     {"name":"inst_13FCC521","path":"rooms/gameover_screen/gameover_screen.yy",},
     {"name":"inst_395BC5C9","path":"rooms/gameover_screen/gameover_screen.yy",},
     {"name":"inst_612F9BC4","path":"rooms/gameover_screen/gameover_screen.yy",},
+    {"name":"inst_6755C6B4","path":"rooms/gameover_screen/gameover_screen.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -16,6 +17,7 @@
         {"$GMRInstance":"v4","%Name":"inst_13FCC521","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_13FCC521","objectId":{"name":"obj_button_Gameover_to_Menu","path":"objects/obj_button_Gameover_to_Menu/obj_button_Gameover_to_Menu.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.299639,"scaleY":0.16666664,"x":224.0,"y":352.0,},
         {"$GMRInstance":"v4","%Name":"inst_395BC5C9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_395BC5C9","objectId":{"name":"obj_button_quit","path":"objects/obj_button_quit/obj_button_quit.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.29963902,"scaleY":0.1666667,"x":224.0,"y":480.0,},
         {"$GMRInstance":"v4","%Name":"inst_612F9BC4","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_612F9BC4","objectId":{"name":"Gameover_text","path":"objects/Gameover_text/Gameover_text.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.0,"scaleY":3.0,"x":928.0,"y":256.0,},
+        {"$GMRInstance":"v4","%Name":"inst_6755C6B4","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6755C6B4","objectId":{"name":"obj_gameover_music","path":"objects/obj_gameover_music/obj_gameover_music.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":64.0,"y":32.0,},
       ],"layers":[],"name":"Instances_1","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_2F8FF76A","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_2F8FF76A","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":0.99254686,"scaleY":1.0113636,"spriteId":{"name":"Gameover_background","path":"sprites/Gameover_background/Gameover_background.yy",},"x":0.0,"y":0.0,},

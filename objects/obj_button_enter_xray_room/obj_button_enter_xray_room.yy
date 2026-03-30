@@ -10,8 +10,8 @@
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"Obj_button_parent","path":"objects/Obj_button_parent/Obj_button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/Obj_button_parent/Obj_button_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Xray",},
   ],
   "parent":{
-    "name":"Left_Hallway",
-    "path":"folders/Left_Hallway.yy",
+    "name":"Obj_Left_Hallway",
+    "path":"folders/Obj_Left_Hallway.yy",
   },
   "parentObjectId":{
     "name":"Obj_button_parent",

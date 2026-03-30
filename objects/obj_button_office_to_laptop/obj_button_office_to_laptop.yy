@@ -7,7 +7,7 @@
   "managed":true,
   "name":"obj_button_office_to_laptop",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"Obj_button_parent","path":"objects/Obj_button_parent/Obj_button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/Obj_button_parent/Obj_button_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"laptop",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"Obj_button_parent","path":"objects/Obj_button_parent/Obj_button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/Obj_button_parent/Obj_button_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Laptop",},
   ],
   "parent":{
     "name":"Objects_Office",
@@ -35,8 +35,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"obj_button",
-    "path":"sprites/obj_button/obj_button.yy",
+    "name":"spr_laptop",
+    "path":"sprites/spr_laptop/spr_laptop.yy",
   },
   "spriteMaskId":null,
   "visible":true,

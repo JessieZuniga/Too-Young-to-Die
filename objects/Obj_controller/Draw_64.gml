@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Drawing.Set_Color
+/// @DnDVersion : 1
+/// @DnDHash : 717A5CD6
+draw_set_colour($FFFFFFFF & $ffffff);
+var l717A5CD6_0=($FFFFFFFF >> 24);
+draw_set_alpha(l717A5CD6_0 / $ff);
+
 /// @DnDAction : YoYo Games.Types.Decimal_To_Integer
 /// @DnDVersion : 1
 /// @DnDHash : 35AA5014
@@ -16,9 +23,9 @@ var temp = floor(global.global_timer);
 /// @DnDArgument : "var" "temp"
 draw_text(50, 50, string("Timeleft: ") + string(temp));
 
-/// @DnDAction : YoYo Games.Drawing.Set_Color
+/// @DnDAction : YoYo Games.Drawing.Set_Font
 /// @DnDVersion : 1
-/// @DnDHash : 717A5CD6
-draw_set_colour($FFFFFFFF & $ffffff);
-var l717A5CD6_0=($FFFFFFFF >> 24);
-draw_set_alpha(l717A5CD6_0 / $ff);
+/// @DnDHash : 0F63F44F
+/// @DnDArgument : "font" "Font1"
+/// @DnDSaveInfo : "font" "Font1"
+draw_set_font(Font1);

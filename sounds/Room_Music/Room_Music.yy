@@ -1,6 +1,6 @@
 {
   "$GMSound":"v2",
-  "%Name":"Office_Music",
+  "%Name":"Room_Music",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -12,7 +12,7 @@
   "conversionMode":0,
   "duration":65.45846,
   "exportDir":"",
-  "name":"Office_Music",
+  "name":"Room_Music",
   "parent":{
     "name":"Music",
     "path":"folders/Music.yy",
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"Office_Music.wav",
+  "soundFile":"Room_Music.wav",
   "volume":1.0,
 }
