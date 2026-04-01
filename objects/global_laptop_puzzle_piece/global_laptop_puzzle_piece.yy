@@ -31,10 +31,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"slider_puzzle_spr_9",
-    "path":"sprites/slider_puzzle_spr_9/slider_puzzle_spr_9.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
