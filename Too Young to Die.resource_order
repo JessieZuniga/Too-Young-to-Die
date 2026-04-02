@@ -77,6 +77,7 @@
     {"name":"Ui_Button_soundeffect","order":4,"path":"sounds/Ui_Button_soundeffect/Ui_Button_soundeffect.yy",},
     {"name":"Background_Hallway","order":1,"path":"sprites/Background_Hallway/Background_Hallway.yy",},
     {"name":"Background_Office","order":1,"path":"sprites/Background_Office/Background_Office.yy",},
+    {"name":"final_piece","order":16,"path":"sprites/final_piece/final_piece.yy",},
     {"name":"Gameover_background","order":1,"path":"sprites/Gameover_background/Gameover_background.yy",},
     {"name":"obj_button","order":5,"path":"sprites/obj_button/obj_button.yy",},
     {"name":"overlay_spr","order":8,"path":"sprites/overlay_spr/overlay_spr.yy",},

@@ -119,6 +119,7 @@
     {"id":{"name":"Background_Hallway","path":"sprites/Background_Hallway/Background_Hallway.yy",},},
     {"id":{"name":"Background_Office","path":"sprites/Background_Office/Background_Office.yy",},},
     {"id":{"name":"Background_Patient","path":"sprites/Background_Patient/Background_Patient.yy",},},
+    {"id":{"name":"final_piece","path":"sprites/final_piece/final_piece.yy",},},
     {"id":{"name":"Gameover_background","path":"sprites/Gameover_background/Gameover_background.yy",},},
     {"id":{"name":"obj_button","path":"sprites/obj_button/obj_button.yy",},},
     {"id":{"name":"overlay_spr","path":"sprites/overlay_spr/overlay_spr.yy",},},

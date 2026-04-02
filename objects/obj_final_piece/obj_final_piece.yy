@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"slider_puzzle_spr_9",
-    "path":"sprites/slider_puzzle_spr_9/slider_puzzle_spr_9.yy",
+    "name":"final_piece",
+    "path":"sprites/final_piece/final_piece.yy",
   },
   "spriteMaskId":null,
   "visible":true,

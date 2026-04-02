@@ -1,6 +1,6 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 18E51C0A
-/// @DnDArgument : "expr" "250"
+/// @DnDArgument : "expr" "10"
 /// @DnDArgument : "var" "timesframe"
-timesframe = 250;
+timesframe = 10;

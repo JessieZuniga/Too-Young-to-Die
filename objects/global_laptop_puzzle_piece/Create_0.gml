@@ -45,3 +45,9 @@ global.LaptopPuzzle_Piece_7 = 0;
 /// @DnDHash : 01F7AF2A
 /// @DnDArgument : "var" "global.LaptopPuzzle_Piece_8"
 global.LaptopPuzzle_Piece_8 = 0;
+
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 1C5333AD
+/// @DnDArgument : "var" "global.elevator_exit"
+global.elevator_exit = 0;

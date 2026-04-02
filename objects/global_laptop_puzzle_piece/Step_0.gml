@@ -53,3 +53,10 @@ var temp = global.LaptopPuzzle_Piece_7;
 /// @DnDArgument : "output_temp" "1"
 /// @DnDArgument : "var" "global.LaptopPuzzle_Piece_8"
 var temp = global.LaptopPuzzle_Piece_8;
+
+/// @DnDAction : YoYo Games.Common.Get_Global
+/// @DnDVersion : 1
+/// @DnDHash : 0ECC2D8C
+/// @DnDArgument : "output_temp" "1"
+/// @DnDArgument : "var" "global.elevator_exit"
+var temp = global.elevator_exit;
