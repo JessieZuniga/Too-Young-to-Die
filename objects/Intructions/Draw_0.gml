@@ -16,10 +16,10 @@ draw_set_alpha(l737B4B50_0 / $ff);
 /// @DnDHash : 73325C9F
 /// @DnDArgument : "x1" "550"
 /// @DnDArgument : "y1" "255"
-/// @DnDArgument : "x2" "1275"
+/// @DnDArgument : "x2" "1250"
 /// @DnDArgument : "y2" "575"
 /// @DnDArgument : "fill" "1"
-draw_rectangle(550, 255, 1275, 575, 0);
+draw_rectangle(550, 255, 1250, 575, 0);
 
 /// @DnDAction : YoYo Games.Drawing.Set_Color
 /// @DnDVersion : 1
@@ -33,9 +33,9 @@ draw_set_alpha(l1CBB196E_0 / $ff);
 /// @DnDHash : 51BBD016
 /// @DnDArgument : "x1" "550"
 /// @DnDArgument : "y1" "255"
-/// @DnDArgument : "x2" "1275"
+/// @DnDArgument : "x2" "1250"
 /// @DnDArgument : "y2" "575"
-draw_rectangle(550, 255, 1275, 575, 1);
+draw_rectangle(550, 255, 1250, 575, 1);
 
 /// @DnDAction : YoYo Games.Drawing.Set_Alignment
 /// @DnDVersion : 1.1
@@ -55,11 +55,11 @@ draw_set_alpha(l355DBBFE_0 / $ff);
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
 /// @DnDHash : 3CD69CCC
-/// @DnDArgument : "x_relative" "1"
-/// @DnDArgument : "y_relative" "1"
+/// @DnDArgument : "x" "900"
+/// @DnDArgument : "y" "415"
 /// @DnDArgument : "caption" ""
 /// @DnDArgument : "var" ""The surgeon who stole your vitality and\n deformed your face is somewhere within this hospital\n Explore and solve the clues before the rest of your\n vitality expires to survive and exact revenge!\nLeft Click - to interact/move\n (interactive objects are highlighted in red)""
-draw_text(x + 0, y + 0,  + string("The surgeon who stole your vitality and\n deformed your face is somewhere within this hospital\n Explore and solve the clues before the rest of your\n vitality expires to survive and exact revenge!\nLeft Click - to interact/move\n (interactive objects are highlighted in red)"));
+draw_text(900, 415,  + string("The surgeon who stole your vitality and\n deformed your face is somewhere within this hospital\n Explore and solve the clues before the rest of your\n vitality expires to survive and exact revenge!\nLeft Click - to interact/move\n (interactive objects are highlighted in red)"));
 
 /// @DnDAction : YoYo Games.Drawing.Set_Alignment
 /// @DnDVersion : 1.1

@@ -7,7 +7,7 @@
   "managed":true,
   "name":"obj_button_enter_Office_room",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"Obj_button_parent","path":"objects/Obj_button_parent/Obj_button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/Obj_button_parent/Obj_button_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Office Room",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"Obj_button_parent","path":"objects/Obj_button_parent/Obj_button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/Obj_button_parent/Obj_button_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Office",},
   ],
   "parent":{
     "name":"Objects_Main_Hallway",
