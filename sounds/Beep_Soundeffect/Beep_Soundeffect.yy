@@ -1,6 +1,6 @@
 {
   "$GMSound":"v2",
-  "%Name":"Room_Music",
+  "%Name":"Beep_Soundeffect",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,9 +10,9 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":65.45846,
+  "duration":31.14,
   "exportDir":"",
-  "name":"Room_Music",
+  "name":"Beep_Soundeffect",
   "parent":{
     "name":"Music",
     "path":"folders/Music.yy",
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"Room_Music.wav",
-  "volume":0.6,
+  "soundFile":"Beep_Soundeffect.mp3",
+  "volume":0.3,
 }

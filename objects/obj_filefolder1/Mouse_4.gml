@@ -10,9 +10,9 @@ var l0CB536AF_0;l0CB536AF_0 = mouse_check_button_pressed(mb_left);if (l0CB536A
 	/// @DnDVersion : 1.1
 	/// @DnDHash : 4DB5D2B0
 	/// @DnDParent : 0CB536AF
-	/// @DnDArgument : "soundid" "Ui_Button_soundeffect"
-	/// @DnDSaveInfo : "soundid" "Ui_Button_soundeffect"
-	audio_play_sound(Ui_Button_soundeffect, 0, 0, 1.0, undefined, 1.0);}
+	/// @DnDArgument : "soundid" "paper_soundeffect"
+	/// @DnDSaveInfo : "soundid" "paper_soundeffect"
+	audio_play_sound(paper_soundeffect, 0, 0, 1.0, undefined, 1.0);}
 
 /// @DnDAction : YoYo Games.Instances.If_Instance_Exists
 /// @DnDVersion : 1
