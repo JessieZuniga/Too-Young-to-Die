@@ -11,10 +11,13 @@ global.global_timer += -delta_time*0.000001;
 /// @DnDHash : 6D6111C0
 /// @DnDArgument : "var" "global.global_timer"
 /// @DnDArgument : "op" "3"
-if(global.global_timer <= 0){	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
+if(global.global_timer <= 0)
+{
+	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 	/// @DnDVersion : 1
 	/// @DnDHash : 19824D38
 	/// @DnDParent : 6D6111C0
 	/// @DnDArgument : "room" "gameover_screen"
 	/// @DnDSaveInfo : "room" "gameover_screen"
-	room_goto(gameover_screen);}
+	room_goto(gameover_screen);
+}
