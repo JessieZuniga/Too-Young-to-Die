@@ -57,16 +57,16 @@ if(global.LaptopPuzzle_Piece_1 == 1){	/// @DnDAction : YoYo Games.Common.If_Va
 								/// @DnDVersion : 1
 								/// @DnDHash : 0659B42D
 								/// @DnDParent : 76AD8A3A
-								/// @DnDArgument : "value" "160"
-								x = 160;
+								/// @DnDArgument : "value" "170"
+								x = 170;
 							
 								/// @DnDAction : YoYo Games.Instances.Set_Instance_Var
 								/// @DnDVersion : 1
 								/// @DnDHash : 10B3335F
 								/// @DnDParent : 76AD8A3A
-								/// @DnDArgument : "value" "160"
+								/// @DnDArgument : "value" "310"
 								/// @DnDArgument : "instvar" "1"
-								y = 160;
+								y = 310;
 							
 								/// @DnDAction : YoYo Games.Miscellaneous.Debug_Show_Message
 								/// @DnDVersion : 1
