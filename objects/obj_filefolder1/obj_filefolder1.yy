@@ -35,8 +35,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_regluar_button",
-    "path":"sprites/spr_regluar_button/spr_regluar_button.yy",
+    "name":"spr_filefolder1",
+    "path":"sprites/spr_filefolder1/spr_filefolder1.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -3,6 +3,15 @@
 /// @DnDHash : 46897921
 draw_self();
 
+/// @DnDAction : YoYo Games.Drawing.Draw_Sprite
+/// @DnDVersion : 1
+/// @DnDHash : 674899EA
+/// @DnDArgument : "x" "-210"
+/// @DnDArgument : "y" "10"
+/// @DnDArgument : "sprite" "spr_filefolder3_upright"
+/// @DnDSaveInfo : "sprite" "spr_filefolder3_upright"
+draw_sprite(spr_filefolder3_upright, 0, -210, 10);
+
 /// @DnDAction : YoYo Games.Drawing.Set_Font
 /// @DnDVersion : 1
 /// @DnDHash : 0C5A4820

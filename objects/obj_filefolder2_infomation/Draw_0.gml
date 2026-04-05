@@ -3,6 +3,23 @@
 /// @DnDHash : 46897921
 draw_self();
 
+/// @DnDAction : YoYo Games.Drawing.Draw_Sprite
+/// @DnDVersion : 1
+/// @DnDHash : 48A30F27
+/// @DnDArgument : "x" "-230"
+/// @DnDArgument : "y" "5"
+/// @DnDArgument : "sprite" "spr_filefolder2_upright"
+/// @DnDSaveInfo : "sprite" "spr_filefolder2_upright"
+draw_sprite(spr_filefolder2_upright, 0, -230, 5);
+
+/// @DnDAction : YoYo Games.Instances.Sprite_Scale
+/// @DnDVersion : 1
+/// @DnDHash : 610B3247
+/// @DnDDisabled : 1
+/// @DnDArgument : "xscale" "200"
+/// @DnDArgument : "yscale" "400"
+
+
 /// @DnDAction : YoYo Games.Drawing.Set_Font
 /// @DnDVersion : 1
 /// @DnDHash : 0C5A4820
