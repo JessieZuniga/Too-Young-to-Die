@@ -160,6 +160,7 @@
     {"id":{"name":"spr_right_button","path":"sprites/spr_right_button/spr_right_button.yy",},},
     {"id":{"name":"Spr_right_hallway","path":"sprites/Spr_right_hallway/Spr_right_hallway.yy",},},
     {"id":{"name":"spr_xray_background","path":"sprites/spr_xray_background/spr_xray_background.yy",},},
+    {"id":{"name":"test","path":"sprites/test/test.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
