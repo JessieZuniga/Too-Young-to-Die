@@ -6,9 +6,9 @@ draw_self();
 /// @DnDAction : YoYo Games.Drawing.Set_Color
 /// @DnDVersion : 1
 /// @DnDHash : 737B4B50
-/// @DnDArgument : "color" "$FF26267F"
-draw_set_colour($FF26267F & $ffffff);
-var l737B4B50_0=($FF26267F >> 24);
+/// @DnDArgument : "color" "$FF000066"
+draw_set_colour($FF000066 & $ffffff);
+var l737B4B50_0=($FF000066 >> 24);
 draw_set_alpha(l737B4B50_0 / $ff);
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Rectangle
@@ -58,8 +58,32 @@ draw_set_alpha(l355DBBFE_0 / $ff);
 /// @DnDArgument : "x" "900"
 /// @DnDArgument : "y" "415"
 /// @DnDArgument : "caption" ""
-/// @DnDArgument : "var" ""The surgeon who stole your vitality and\n deformed your face is somewhere within this hospital\n Explore and solve the clues before the rest of your\n vitality expires to survive and exact revenge!\nLeft Click - to interact/move\n (interactive objects are highlighted in red)""
-draw_text(900, 415,  + string("The surgeon who stole your vitality and\n deformed your face is somewhere within this hospital\n Explore and solve the clues before the rest of your\n vitality expires to survive and exact revenge!\nLeft Click - to interact/move\n (interactive objects are highlighted in red)"));
+/// @DnDArgument : "var" ""The surgeon who stole your vitality and\n deformed your face is somewhere within this hospital\n Explore and solve the clues before the rest of your\n vitality expires to survive and exact revenge!\n \n \n Left Click - to interact/move\n (interactive objects are highlighted in red)""
+draw_text(900, 415,  + string("The surgeon who stole your vitality and\n deformed your face is somewhere within this hospital\n Explore and solve the clues before the rest of your\n vitality expires to survive and exact revenge!\n \n \n Left Click - to interact/move\n (interactive objects are highlighted in red)"));
+
+/// @DnDAction : YoYo Games.Drawing.Set_Color
+/// @DnDVersion : 1
+/// @DnDHash : 44C60416
+/// @DnDArgument : "color" "$FF0000FF"
+draw_set_colour($FF0000FF & $ffffff);
+var l44C60416_0=($FF0000FF >> 24);
+draw_set_alpha(l44C60416_0 / $ff);
+
+/// @DnDAction : YoYo Games.Drawing.Set_Font
+/// @DnDVersion : 1
+/// @DnDHash : 2B038B02
+/// @DnDArgument : "font" "Font5"
+/// @DnDSaveInfo : "font" "Font5"
+draw_set_font(Font5);
+
+/// @DnDAction : YoYo Games.Drawing.Draw_Value
+/// @DnDVersion : 1
+/// @DnDHash : 3B02D988
+/// @DnDArgument : "x" "900"
+/// @DnDArgument : "y" "450"
+/// @DnDArgument : "caption" ""
+/// @DnDArgument : "var" ""Beware! Your running out of time!" "
+draw_text(900, 450,  + string("Beware! Your running out of time!" ));
 
 /// @DnDAction : YoYo Games.Drawing.Set_Alignment
 /// @DnDVersion : 1.1
